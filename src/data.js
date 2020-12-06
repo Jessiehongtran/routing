@@ -1,0 +1,22 @@
+export const routes = [
+    { routeId: 1, city: "Seattle", minutes: 136 },
+    { routeId: 2, city: "Seattle", minutes: 176 },
+    { routeId: 3, city: "Seattle", minutes: 112 },
+    { routeId: 4, city: "Seattle", minutes: 129 },
+    { routeId: 5, city: "Seattle", minutes: 129 },
+    { routeId: 6, city: "Seattle", minutes: 162 },
+    { routeId: 7, city: "Shoreline", minutes: 138 },
+    { routeId: 8, city: "Shoreline", minutes: 162 },
+    { routeId: 9, city: "Shoreline", minutes: 171 },
+    { routeId: 10, city: "Bellevue", minutes: 161 },
+    { routeId: 11, city: "Bellevue", minutes: 127 },
+    { routeId: 12, city: "Bellevue", minutes: 137 },
+    { routeId: 13, city: "Bellevue", minutes: 146 },
+    { routeId: 14, city: "Bellevue", minutes: 150 },
+    { routeId: 15, city: "Bellevue", minutes: 178 },
+    { routeId: 16, city: "Bellevue", minutes: 150 },
+    { routeId: 17, city: "Bellevue", minutes: 116 },
+    { routeId: 18, city: "Bellevue", minutes: 118 },
+    { routeId: 19, city: "Bellevue", minutes: 177 },
+    { routeId: 20, city: "Bellevue", minutes: 157 }
+]
